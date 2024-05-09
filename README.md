@@ -1,4 +1,5 @@
 # Android-kakao-map
+카카오테크 캠퍼스 Step2 카카오 맵 안드로이드 클론 프로젝트 레포지토리입니다.
 
 <details>
 <summary>Step-2.-Week-1</summary>
